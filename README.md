@@ -11,7 +11,7 @@ or "not enough info". This task involved
 Relevant document retrieval was approached using search algorithms, a logistic regression was used to select relevant sentences
 and then deep learning architectures were used for claim veracity prediction.
 
-- More information on the project and instructions on acquiring the data can be found in the Project Description. 
+- Project_Description.pdf contains more information on the project and instructions on acquiring the data.
 - Question 1-5 covers the data processing, summary statistics, relevant document retrieval and evidence sentence selection.
 - Question 6 covers a simple baseline neural network.
 - Question 8 covers a more bespoke architecture implemented for the task.
