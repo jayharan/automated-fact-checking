@@ -8,7 +8,7 @@ or "not enough info". This task involved
 - evidence sentence selection
 - claim veracity prediction
 
-Relevant document retrieval was approached using search algorithms, a logistic regression was used to select relevant sentences
+Relevant document retrieval was tackled by using search algorithms, a logistic regression was used to select relevant sentences
 and then deep learning architectures were used for claim veracity prediction.
 
 - Project_Description.pdf contains more information on the project and instructions on acquiring the data.
