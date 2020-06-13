@@ -12,6 +12,6 @@ Relevant document retrieval was tackled by using search algorithms, a logistic r
 and then deep learning architectures were used for claim veracity prediction.
 
 - Project_Description.pdf contains more information on the project and instructions on acquiring the data.
-- Question 1-5 covers the data processing, summary statistics, relevant document retrieval and evidence sentence selection.
-- Question 6 covers a simple baseline neural network.
+- **Question 1-5:** the data processing, summary statistics, relevant document retrieval and evidence sentence selection.
+- **Question 6** covers a simple baseline neural network.
 - Question 8 covers the specific deep learning architecture implemented for the task.
